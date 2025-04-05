@@ -31,11 +31,11 @@
   <a href="https://www.linkedin.com/in/shahin-siddiqui-b78527217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+<a href="https://www.naukri.com/code360/profile/960a52ed-4f3e-4069-bba2-a4b83e50132f" target="_blank">
+    <img src="https://img.shields.io/badge/Coding Ninjas-FF5722?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
   <a href="https://leetcode.com/u/shahin_143/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.naukri.com/code360/profile/960a52ed-4f3e-4069-bba2-a4b83e50132f" target="_blank">
-    <img src="https://img.shields.io/badge/Coding Ninjas-FF5722?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
