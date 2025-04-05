@@ -78,7 +78,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/shahin-314/shahin-314/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
